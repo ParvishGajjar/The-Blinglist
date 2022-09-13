@@ -17,7 +17,7 @@ The Blinglist is an online ecommerce web application used to buy jewellery. This
 ---
 
 ### BlingList Git Repository Link
-- [BlingList Git Repository](https://git.cs.dal.ca/doctor/theblinglist)
+- [BlingList Git Repository](https://github.com/ParvishGajjar/The-Blinglist)
 
 ### BlingList Frontend Deployment URL
 - [BlingList FrontEnd URL](http://theblinglist.herokuapp.com/)
